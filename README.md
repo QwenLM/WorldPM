@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-WorldPM-yellow)](https://huggingface.co/Qwen/WorldPM-72B)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.10527-b31b1b.svg)](https://arxiv.org/abs/2505.10527)
-[![GitHub](https://img.shields.io/badge/GitHub-WorldPM-4b32c3?logo=github)](https://github.com/QwenLM/Qwen-World)
+[![GitHub](https://img.shields.io/badge/GitHub-WorldPM-4b32c3?logo=github)](https://github.com/QwenLM/WorldPM)
 
 
 ## 📚 Introduction
