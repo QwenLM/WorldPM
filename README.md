@@ -118,7 +118,6 @@ model = AutoModel.from_pretrained(
 
 
 def get_score(model, tokenizer, conversation):
-    
     con_str = tokenizer.apply_chat_template(conversation, tokenize=False, add_generation_prompt=False)
     input_ids = tokenizer.encode(con_str, return_tensors="pt", add_special_tokens=False)
     outputs = model(input_ids=input_ids.to(model.device))
