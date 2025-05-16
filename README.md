@@ -6,6 +6,7 @@
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-yellow)](https://huggingface.co/Qwen/WorldPM-72B)
 [![ModelScope](https://img.shields.io/badge/🤖%20ModelScope-purple)](https://modelscope.cn/models/Qwen/WorldPM-72B)
 
+[English](./README.md) | [中文](./README_CN.md)
 
 ## 📚 Introduction
 📄 [WorldPM](https://arxiv.org/abs/2505.10527) (World Preference Modeling) demonstrates that preference modeling follows similar **scaling laws** as language modeling. Through large-scale training on 15M preference data, we reveal that preference models can learn unified preference representations.
